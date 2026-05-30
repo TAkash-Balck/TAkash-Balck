@@ -78,6 +78,10 @@ class Developer:
 
 ## 📊 GitHub Statistics
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAkash-Balck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9)
+
+<img src="https://streak-stats.demolab.com?user=TAkash-Balck&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3" alt="GitHub Streak"/>
 <div align="center">
 
 <a href="https://github.com/TAkash-Balck">
