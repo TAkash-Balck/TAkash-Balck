@@ -141,6 +141,64 @@ Oracle Cloud, Cyber Security, Data Analytics & more
 
 ---
 
+## GitHub Repository Impact
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### Total Stars
+<h2>⭐</h2>
+
+**Repository Recognition**
+
+</td>
+<td align="center" width="25%">
+
+### Total Forks
+<h2>🍴</h2>
+
+**Code Adoption**
+
+</td>
+<td align="center" width="25%">
+
+### Repositories
+<h2>📦</h2>
+
+**Project Portfolio**
+
+</td>
+<td align="center" width="25%">
+
+### Followers
+<h2>👥</h2>
+
+**Community Reach**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+### Overall GitHub Impact
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAkash-Balck&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=15&card_width=500)
+
+</div>
+
+<div align="center">
+
+### Top Repositories
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAkash-Balck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6&border_radius=15&card_width=500)
+
+</div>
+
 
 
 ---
