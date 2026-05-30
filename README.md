@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🎯 Crafting clean, maintainable code with OOP principles and agile methodologies
+###  Crafting clean, maintainable code with OOP principles and agile methodologies
 ### Passionate about automation, AI-integrated applications, and continuous learning
 
 </div>
@@ -141,13 +141,7 @@ Oracle Cloud, Cyber Security, Data Analytics & more
 
 ---
 
-## 🏆 Achievements & Recognition
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TAkash-Balck&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" width="100%"/>
-
-</div>
 
 ---
 
@@ -163,15 +157,15 @@ Oracle Cloud, Cyber Security, Data Analytics & more
   
   **Key Responsibilities & Achievements:**
   
-  - 🎯 **Full-Stack Development** — Built and maintained web application features using modern HTML5, CSS3, JavaScript, and PHP, adhering to OOP principles and industry best practices
+  -  **Full-Stack Development** — Built and maintained web application features using modern HTML5, CSS3, JavaScript, and PHP, adhering to OOP principles and industry best practices
   
-  - 📚 **Code Quality & Reusability** — Developed clean, modular, and reusable code components that improved maintainability and reduced technical debt by ~15%
+  -  **Code Quality & Reusability** — Developed clean, modular, and reusable code components that improved maintainability and reduced technical debt by ~15%
   
-  - 🔄 **Agile Collaboration** — Actively participated in sprint-based development cycles, submitted code for peer review, and incorporated feedback to enhance code quality
+  -  **Agile Collaboration** — Actively participated in sprint-based development cycles, submitted code for peer review, and incorporated feedback to enhance code quality
   
-  - 🚀 **Application Deployment** — Gained hands-on experience in deploying web applications to production environments and managing live system updates
+  -  **Application Deployment** — Gained hands-on experience in deploying web applications to production environments and managing live system updates
   
-  - 👥 **Team Coordination** — Worked effectively within a structured development team, collaborating across frontend and backend responsibilities
+  -  **Team Coordination** — Worked effectively within a structured development team, collaborating across frontend and backend responsibilities
   
 </details>
 
@@ -181,11 +175,11 @@ Oracle Cloud, Cyber Security, Data Analytics & more
 
 <div align="center">
 
-| 🔗 Project | 💡 Overview | 🛠️ Stack | 📊 Impact |
+|  Project |  Overview |  Stack |  Impact |
 |-----------|-----------|---------|----------|
 | **Fresh Harvest AI Market** | AI-driven agricultural marketplace reducing farmer-to-buyer friction with intelligent price insights and automated negotiation flow | Python, JavaScript, REST APIs, MySQL, OOP | ✅ Full E2E product delivery with unit testing & integration validation |
 | **Auto News Poster** | Fully automated content pipeline eliminating 100% of manual posting effort with intelligent article rewriting | Python, REST APIs, Git, Custom Rewrites | 📈 Zero duplicate content, 3rd-party API integration, version controlled |
-| **College Campus Food Order System** | Multi-role ordering platform with consolidated admin panel serving concurrent orders with efficient state management | PHP, MySQL, HTML5, CSS3, JavaScript | 🎯 Live production system, team-based development, Agile deployment |
+| **College Campus Food Order System** | Multi-role ordering platform with consolidated admin panel serving concurrent orders with efficient state management | PHP, MySQL, HTML5, CSS3, JavaScript |  Live production system, team-based development, Agile deployment |
 
 </div>
 
@@ -198,21 +192,21 @@ Oracle Cloud, Cyber Security, Data Analytics & more
 <td width="50%">
 
 **Fresh Harvest AI Market**
-- 🌾 Bridged agricultural supply chain gap
-- 🤖 AI-powered price insights
-- 💰 Full negotiation workflow
-- ✅ Comprehensive unit testing
-- 🔍 Pre-deployment bug catching
+-  Bridged agricultural supply chain gap
+-  AI-powered price insights
+-  Full negotiation workflow
+-  Comprehensive unit testing
+-  Pre-deployment bug catching
 
 </td>
 <td width="50%">
 
 **Auto News Poster**
-- ⚡ 100% workflow automation
-- 🔄 Multi-API orchestration
-- 📝 Custom content rewriting
-- 🎯 Zero duplicates guarantee
-- 📊 Full Git version control
+-  100% workflow automation
+-  Multi-API orchestration
+-  Custom content rewriting
+-  Zero duplicates guarantee
+-  Full Git version control
 
 </td>
 </tr>
@@ -220,11 +214,11 @@ Oracle Cloud, Cyber Security, Data Analytics & more
 <td colspan="2" align="center">
 
 **Campus Food Order System**
-- 👥 Multi-role access control (Admin, User, Staff)
-- 📦 Concurrent order management
-- 📊 Real-time order tracking
-- 🤝 Collaborative team development
-- 🚀 Live production deployment
+-  Multi-role access control (Admin, User, Staff)
+-  Concurrent order management
+-  Real-time order tracking
+-  Collaborative team development
+-  Live production deployment
 
 </td>
 </tr>
@@ -240,12 +234,12 @@ Oracle Cloud, Cyber Security, Data Analytics & more
 
 | 🏅 | Certification | Organization | Date | Credential ID |
 |:---:|-----------|--------------|------|---------------|
-| 🔐 | **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** | Oracle University | May 2026 | 102108853OCI25FNDCFA |
-| 🛡️ | **Cyber Job Simulation — Certificate of Completion** | Deloitte Australia via Forage | Feb 2026 | wgfqgyb9M62enNAAk |
-| 📊 | **Data Analyst Professional Certification** | One Roadmap | Jan 2026 | CERT-5054CE30 |
-| ☁️ | **Introduction to Cloud Computing** | IBM via Coursera | Sep 2025 | GDH6UTPZ38ZF |
-| 🐍 | **Data Science Professional Certification** | Oracle University | 2024 | Oracle Certified |
-| 🗄️ | **MongoDB Basics Certificate** | MongoDB University | 2023 | Verified |
+|  | **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** | Oracle University | May 2026 | 102108853OCI25FNDCFA |
+|  | **Cyber Job Simulation — Certificate of Completion** | Deloitte Australia via Forage | Feb 2026 | wgfqgyb9M62enNAAk |
+|  | **Data Analyst Professional Certification** | One Roadmap | Jan 2026 | CERT-5054CE30 |
+|  | **Introduction to Cloud Computing** | IBM via Coursera | Sep 2025 | GDH6UTPZ38ZF |
+|  | **Data Science Professional Certification** | Oracle University | 2024 | Oracle Certified |
+|  | **MongoDB Basics Certificate** | MongoDB University | 2023 | Verified |
 
 </div>
 
@@ -288,7 +282,7 @@ Oracle Cloud, Cyber Security, Data Analytics & more
 
 | 📚 | Degree | Institution | Duration | CGPA |
 |:---:|--------|-----------|----------|------|
-| 🎯 | **B.Tech Information Technology** | St. Joseph's Institute of Technology, Chennai | 2023 - 2027 | **7.59 / 10.0** |
+|  | **B.Tech Information Technology** | St. Joseph's Institute of Technology, Chennai | 2023 - 2027 | **7.59 / 10.0** |
 
 </div>
 
